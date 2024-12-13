@@ -8,5 +8,7 @@ The ipynb folder contains jupyter notebooks in which I used the Scikit-image and
 * quantify and measure objects
 * interactively annotate objects for high throughput
 
-Consider these notebooks as inspiration on which to build your own application.
+Z-stack images were acquired on an LSM900 Zeiss confocal microscope and saved in .czi format (https://www.zeiss.com/microscopy/en/products/software/zeiss-zen/czi-image-file-format.html#:~:text=a%20CZI%20document.-,All%20Your%20Valuable%20Data%20in%20One%20File,virtual%20slides%20in%20this%20format.) 
+
+**Please, consider these notebooks as inspiration on which to build your own application.**
 In case you are inspired, but could need some initial leads to adapt it for yourself, don't hesitate to contact me.
